@@ -80,6 +80,10 @@ footer {
     margin-left: 5%;
     margin-right: 5%;
   }
+
+  .step-box:last-child {
+    margin-bottom: 0;
+  }
   .footer {
     width: 100%;
   }
